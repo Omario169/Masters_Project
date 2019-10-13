@@ -147,7 +147,7 @@ y <- X_VR_Stab_Data$`PS2 pse`
 
 #The following will create the scatterplot.
 
-plot(x, y, main = "Correlation for active movement",
+plot(x, y, main = "Correlation for passive movement",
      xlab = "Rotational Ball Movement", ylab = "Axial Ball Movement",
      pch = 19, frame = FALSE)
 abline(lm(y ~ x, data = X_VR_Stab_Data), col = "blue")
