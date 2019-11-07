@@ -1,2 +1,2 @@
 # Masters_Project
-The following code allowed me to transform and analyse the dataset I collected for my masters project. 
+In order to run this file import the Excel database "X_VR_Stab_Data.xlsx" into R. Afterwards open and run the "Masters_Script.R" file inside of R to generate the code to help transform and analyse the data for the project.   
